@@ -58,4 +58,4 @@
 
 29)[Program to add two matrices using nested list comprehention and nested loop](https://github.com/Dev-John125/Python/blob/main/problems/29_Adding_Matrices.ipynb)
 
-30)[Program to transpose a matrix using list and nested loop](https://github.com/Dev-John125/Python/blob/main/problems/30_Transpose_Matrix_loop_list.ipynb)
+30)[Program to transpose a matrix using nested list comprehention and nested loop](https://github.com/Dev-John125/Python/blob/main/problems/30_Transpose_Matrix_loop_list.ipynb)
