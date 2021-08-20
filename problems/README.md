@@ -62,6 +62,16 @@
 
 31)[Program to multiply two matrices using nested loop and nested list comprehention](https://github.com/Dev-John125/Python/blob/main/problems/31_Multiplying_matrices.ipynb)
 
-32)[Program to check whether a string is palindrome or not](https://github.com/Dev-John125/Python/blob/main/problems/31_Palindrome.ipynb)
+32)[Program to check whether a string is palindrome or not](https://github.com/Dev-John125/Python/blob/main/problems/32_Palindrome.ipynb)
 
-33)[Program to remove punctuations from a string](https://github.com/Dev-John125/Python/blob/main/problems/30_Removing_Punctuations.ipynb)
+33)[Program to remove punctuations from a string](https://github.com/Dev-John125/Python/blob/main/problems/33_Removing_Punctuations.ipynb)
+
+34)[Program to sort words in alphabetic order](https://github.com/Dev-John125/Python/blob/main/problems/34_Sort_words.ipynb)
+
+35)[Program to illustrate different set operations](https://github.com/Dev-John125/Python/blob/main/problems/35_Set_operations.ipynb)
+
+36)[Program to count the number of vowels using list and dictionary](https://github.com/Dev-John125/Python/blob/main/problems/36_Counting_vowels.ipynb)
+
+37)[Program to find the length of the longest Substring without repeating characters](https://github.com/Dev-John125/Python/blob/main/problems/37_Longest_substring.ipynb)
+
+38)[Program to return two numbers which adds up to a specific target in a given array](https://github.com/Dev-John125/Python/blob/main/problems/38_Return_Indices.ipynb)
