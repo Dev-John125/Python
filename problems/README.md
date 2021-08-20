@@ -59,3 +59,9 @@
 29)[Program to add two matrices using nested list comprehention and nested loop](https://github.com/Dev-John125/Python/blob/main/problems/29_Adding_Matrices.ipynb)
 
 30)[Program to transpose a matrix using nested list comprehention and nested loop](https://github.com/Dev-John125/Python/blob/main/problems/30_Transpose_Matrix_loop_list.ipynb)
+
+31)[Program to multiply two matrices using nested loop and nested list comprehention](https://github.com/Dev-John125/Python/blob/main/problems/31_Multiplying_matrices.ipynb)
+
+32)[Program to check whether a string is palindrome or not](https://github.com/Dev-John125/Python/blob/main/problems/31_Palindrome.ipynb)
+
+33)[Program to remove punctuations from a string](https://github.com/Dev-John125/Python/blob/main/problems/30_Removing_Punctuations.ipynb)
