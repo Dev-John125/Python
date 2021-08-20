@@ -75,3 +75,15 @@
 37)[Program to find the length of the longest Substring without repeating characters](https://github.com/Dev-John125/Python/blob/main/problems/37_Longest_substring.ipynb)
 
 38)[Program to return two numbers which adds up to a specific target in a given array](https://github.com/Dev-John125/Python/blob/main/problems/38_Return_Indices.ipynb)
+
+39)[Program to return the summary of ranges of a given array ](https://github.com/Dev-John125/Python/blob/main/problems/39_Summary_of_ranges.ipynb)
+
+40)[Program to rotate an array of n elements to the right by k steps](https://github.com/Dev-John125/Python/blob/main/problems/40_Rotate_by_k_steps.ipynb)
+
+41)[Program to slice a list into 3 equal chunks and revert each list](https://github.com/Dev-John125/Python/blob/main/problems/41_Divide_and_revert.ipynb)
+
+42)[Program to calculate exponents of an input](https://github.com/Dev-John125/Python/blob/main/problems/42_Calculate_exponents.ipynb)
+
+43)[Program to find and print the remainder of two numbers](https://github.com/Dev-John125/Python/blob/main/problems/43_Finding_remainder.ipynb)
+
+44)[Program to compute sum of digits in a number](https://github.com/Dev-John125/Python/blob/main/problems/44_Sum_of_digits.ipynb)
