@@ -87,3 +87,11 @@
 43)[Program to find and print the remainder of two numbers](https://github.com/Dev-John125/Python/blob/main/problems/43_Finding_remainder.ipynb)
 
 44)[Program to compute sum of digits in a number](https://github.com/Dev-John125/Python/blob/main/problems/44_Sum_of_digits.ipynb)
+
+45)[Program to sort a list in ascending and descending order](https://github.com/Dev-John125/Python/blob/main/problems/45_Sorting_lists.ipynb)
+
+46)[Program to remove and return that item from the list](https://github.com/Dev-John125/Python/blob/main/problems/46_Remove_and_return.ipynb)
+
+47)[Program to return the number of times a specified element appears in the list](https://github.com/Dev-John125/Python/blob/main/problems/47_count_of_element_in_list.ipynb)
+
+48)[Program to access first and last characters in a string](https://github.com/Dev-John125/Python/blob/main/problems/48_First_Last_characters_in_string.ipynb)
