@@ -96,8 +96,10 @@
 
 48)[Program to access first and last characters in a string](https://github.com/Dev-John125/Python/blob/main/problems/48_First_Last_characters_in_string.ipynb)
 
-49[Program to set the new values to lowercase](https://github.com/Dev-John125/Python/blob/main/problems/49_Lowercase_list_values.ipynb)
+49)[Program to set the new values to lowercase](https://github.com/Dev-John125/Python/blob/main/problems/49_Lowercase_list_values.ipynb)
 
-50[Program to remove duplicates from a list](https://github.com/Dev-John125/Python/blob/main/problems/50_Removing_duplicates.ipynb)
+50)[Program to remove duplicates from a list](https://github.com/Dev-John125/Python/blob/main/problems/50_Removing_duplicates.ipynb)
 
+51)[Program to create and print a dictionary](https://github.com/Dev-John125/Python/blob/main/problems/51_Dictionary_length.ipynb)
 
+52)[Program to count all the emails according to their mail service providers](https://github.com/Dev-John125/Python/blob/main/problems/52_Email_split_count.ipynb)
