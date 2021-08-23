@@ -1,4 +1,4 @@
-# Basic Questions
+# Questions
 
 1)[Program to Convert Kms to miles](https://github.com/Dev-John125/Python/blob/main/problems/01_Kms_to_miles.ipynb)
 
