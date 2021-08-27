@@ -1,2 +1,2 @@
 # Python
-This repo consists notes for Python and questions I have practiced till date  
+All about my Python Journey
