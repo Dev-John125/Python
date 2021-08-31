@@ -103,3 +103,9 @@
 51)[Program to create and print a dictionary](https://github.com/Dev-John125/Python/blob/main/problems/51_Dictionary_length.ipynb)
 
 52)[Program to count all the emails according to their mail service providers](https://github.com/Dev-John125/Python/blob/main/problems/52_Email_split_count.ipynb)
+
+53)[Program to find sum of n natural numbers](https://github.com/Dev-John125/Python/blob/main/problems/53_Sum_of_natural_numbers.ipynb)
+
+54)[Program to find multiplication table of a given number](https://github.com/Dev-John125/Python/blob/main/problems/54_Multiplication_table.ipynb)
+
+55)[Program to find factorial of a number](https://github.com/Dev-John125/Python/blob/main/problems/55_Factorial.ipynb)
