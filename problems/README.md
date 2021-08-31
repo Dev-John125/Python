@@ -109,3 +109,7 @@
 54)[Program to find multiplication table of a given number](https://github.com/Dev-John125/Python/blob/main/problems/54_Multiplication_table.ipynb)
 
 55)[Program to find factorial of a number](https://github.com/Dev-John125/Python/blob/main/problems/55_Factorial.ipynb)
+
+56)[Program to calculate avg sales](https://github.com/Dev-John125/Python/blob/main/problems/56_Avg_Sales.ipynb)
+
+57)[Program to read items from a dictionary and generate a printable bill](https://github.com/Dev-John125/Python/blob/main/problems/57_Food_Bill.ipynb)
