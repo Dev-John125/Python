@@ -22,4 +22,4 @@
 
 11)[Object Oriented Programming in Python](https://github.com/Dev-John125/Python/blob/main/basics/CH11_OOPS.ipynb)
 
-12)[Modules and Packages in Python](https://github.com/Dev-John125/Python/blob/main/basics/CH12_Modules_And_Packages.ipynb
+12)[Modules and Packages in Python](https://github.com/Dev-John125/Python/blob/main/basics/CH12_Modules_And_Packages.ipynb)
