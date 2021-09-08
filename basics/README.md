@@ -1,6 +1,6 @@
 # Python Basics
 
-1)[Modules and Comments](https://github.com/Dev-John125/Python/blob/main/basics/CH1_Modules_%26_Comments.ipynb)
+1)[Comments](https://github.com/Dev-John125/Python/blob/main/basics/CH1_Comments.ipynb.ipynb)
 
 2)[Variables and Datatypes](https://github.com/Dev-John125/Python/blob/main/basics/CH2_Variables_And_Datatypes.ipynb)
 
