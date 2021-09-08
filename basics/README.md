@@ -1,5 +1,7 @@
 # Python Basics
 
+0)[Introduction](https://github.com/Dev-John125/Python/blob/main/basics/CH0_Introduction.ipynb)
+
 1)[Comments](https://github.com/Dev-John125/Python/blob/main/basics/CH1_Comments.ipynb.ipynb)
 
 2)[Variables and Datatypes](https://github.com/Dev-John125/Python/blob/main/basics/CH2_Variables_And_Datatypes.ipynb)
